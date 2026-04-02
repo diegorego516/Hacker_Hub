@@ -1,2 +1,2 @@
-# Hacker_Hub
-This is a hub for Blue Hat Hackers (Blue Team) to connect themselves around
+# A TCP-IP Client (Server) Host Application
+This is a tcp-ip client (server) host application that i am programming in Python
