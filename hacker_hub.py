@@ -37,7 +37,7 @@ def cliente():
         resposta = s.recv(1024).decode("utf-8")
         print("Servidor respondeu: ", resposta)
 
-    s.close
+    s.close()
 
 if __name__ == "__main__":
     escolha = input("Digite 's' para servidor ou 'c' para cliente: ")
